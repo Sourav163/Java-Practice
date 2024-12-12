@@ -80,7 +80,6 @@ public class UpToClassesAndObjects {
     }
 }
 
-// Will use getter, setter and this-keyword
 class BankAccount {
     int accountNumber;
     String accountHolderName;
