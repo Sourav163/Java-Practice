@@ -1,4 +1,4 @@
-package LeetCode;
+package Java_Practice;
 
 public class LongestCommonPrefixLength_3043 {
     public static void main(String[] args) {
