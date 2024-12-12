@@ -1,2 +1,2 @@
 ﻿# Java-Practice
-&emsp;Practiced Java Codes, using IntelliJ IDEA.
+&emsp; Practiced Java Codes, using IntelliJ IDEA.
