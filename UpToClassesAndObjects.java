@@ -72,7 +72,7 @@ public class UpToClassesAndObjects {
         int choice = sc.nextInt();
         if (choice == 5) {
             for (BankAccount ba : bas) {
-                System.out.println("Account Number :  " + ba.accountNumber + ", Holder Name :  " + ba.accountHolderName + ", Balance :  " + ba.balance); // Derived by Getter
+                System.out.println("Account Number :  " + ba.getAccountNumber() + ", Holder Name :  " + ba.getAccountHolderName() + ", Balance :  " + ba.getBalance()); // Derived by Getter
             }
         } else {
             System.out.println("INVALID CHOICE!!! Try Again :(");
