@@ -105,4 +105,16 @@ class BankAccount {
     public float getBalance() {
         return balance;
     }
+
+    public void CreateNewAccount() {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter Account Holder Name :  ");
+        String name = sc.nextLine();
+        System.out.print("Enter Account Number :  ");
+        int num = sc.nextInt();
+        System.out.print("Enter Current Balance :  ");
+        float bal = sc.nextFloat();
+
+        // Code to store new account data
+    }
 }
